@@ -1,1 +1,1 @@
-# fantasma-
+# ghost-game
